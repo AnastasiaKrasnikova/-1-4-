@@ -1,0 +1,8 @@
+EquationCalculator/
+├── controller/
+│   └── EquationController.java
+├── model/
+│   └── EquationModel.java
+├── view/
+│   └── EquationView.java
+└── Main.java
